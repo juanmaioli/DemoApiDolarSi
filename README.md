@@ -14,3 +14,4 @@ De la api se pueden obtenr las siguietes cotizaciones con sus variaciones:
 - Dolar
 
 ### Todos los derechos son de dolarsi.com ###
+https://juanmaioli.github.io/DemoApiDolarSi/
